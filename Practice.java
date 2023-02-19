@@ -8,7 +8,6 @@ class Practice {
 
 		boolean isNomineeRegister = false;
 
-System.out.println(isNomineeRegister);
 
 	}
 }
