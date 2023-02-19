@@ -6,9 +6,9 @@ class Practice {
 
 		System.out.println(age);
 
-		boolean isNomineeRegistered = false;
+		boolean isNomineeRegister = false;
 
-System.out.println(isNomineeRegistered);
+System.out.println(isNomineeRegister);
 
 	}
 }
